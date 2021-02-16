@@ -1,4 +1,14 @@
 ### SASS learning
+
+#### Prerequisite
+
+````
+Install VS code plugin to run this application.
+=> live-server
+=> live-sass-server 
+
+````
+
 #### Variables
 ````
 $primary-color: #333;
