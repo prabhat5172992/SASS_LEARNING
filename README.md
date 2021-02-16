@@ -9,6 +9,15 @@ Install VS code plugin to run this application.
 
 ````
 
+#### Partials
+
+````
+Files with _ sign are called partials.
+These files are not sent for compilation by sass compiler.
+Import of these files will include only the file name not _ .
+
+````
+
 #### Variables
 ````
 $primary-color: #333;
